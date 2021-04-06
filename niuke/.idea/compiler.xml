@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <wildcardResourcePatterns>
+      <entry name="!?*.java" />
+      <entry name="!?*.form" />
+      <entry name="!?*.class" />
+      <entry name="!?*.groovy" />
+      <entry name="!?*.scala" />
+      <entry name="!?*.flex" />
+      <entry name="!?*.kt" />
+      <entry name="!?*.clj" />
+    </wildcardResourcePatterns>
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="arcs-auth-api" />
+        <module name="arcs-auth-menufunction" />
+        <module name="arcs-auth-passwd" />
+        <module name="arcs-auth-server" />
+        <module name="arcs-biz-app" />
+        <module name="arcs-biz-domain" />
+        <module name="arcs-biz-pub-app" />
+        <module name="arcs-biz-pub-domain" />
+        <module name="arcs-biz-pub-test" />
+        <module name="arcs-eccs" />
+        <module name="arcs-init" />
+        <module name="arcs-operator-app" />
+        <module name="arcs-operator-domain" />
+        <module name="arcs-operator-inner" />
+        <module name="arcs-passway" />
+        <module name="arcs-uf-api" />
+        <module name="arcs-uf-arcsoperator" />
+        <module name="arcs-uf20" />
+        <module name="arcs20-deploy" />
+        <module name="arcs20-interface-impl" />
+        <module name="arcs20-interface-inner" />
+        <module name="arcs20-pub" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="arcs-auth" target="1.8" />
+      <module name="arcs-auth-api" target="1.8" />
+      <module name="arcs-auth-menufunction" target="1.8" />
+      <module name="arcs-auth-passwd" target="1.8" />
+      <module name="arcs-auth-server" target="1.8" />
+      <module name="arcs-auth-server-zip" target="1.8" />
+      <module name="arcs-biz" target="1.8" />
+      <module name="arcs-biz-app" target="1.8" />
+      <module name="arcs-biz-domain" target="1.8" />
+      <module name="arcs-biz-pub" target="1.8" />
+      <module name="arcs-biz-pub-app" target="1.8" />
+      <module name="arcs-biz-pub-domain" target="1.8" />
+      <module name="arcs-biz-pub-test" target="1.8" />
+      <module name="arcs-eccs" target="1.8" />
+      <module name="arcs-init" target="1.8" />
+      <module name="arcs-operator" target="1.8" />
+      <module name="arcs-operator-app" target="1.8" />
+      <module name="arcs-operator-domain" target="1.8" />
+      <module name="arcs-operator-inner" target="1.8" />
+      <module name="arcs-passway" target="1.8" />
+      <module name="arcs-uf" target="1.8" />
+      <module name="arcs-uf-api" target="1.8" />
+      <module name="arcs-uf-arcsoperator" target="1.8" />
+      <module name="arcs-uf20" target="1.8" />
+      <module name="arcs20" target="1.8" />
+      <module name="arcs20-deploy" target="1.8" />
+      <module name="arcs20-deploy-zip" target="1.8" />
+      <module name="arcs20-interface-impl" target="1.8" />
+      <module name="arcs20-interface-inner" target="1.8" />
+      <module name="arcs20-pub" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" useUTFGuessing="true" native2AsciiForPropertiesFiles="false">
+    <file url="file://F:/机构柜台/15、事前风控/事前风控2.0/MSACode/arcs20" charset="UTF-8" />
+    <file url="file://F:/机构柜台/15、事前风控/事前风控2.0/MSACode/arcs20/arcs-auth" charset="UTF-8" />
+    <file url="file://F:/机构柜台/15、事前风控/事前风控2.0/MSACode/arcs20/arcs-auth/arcs-auth-api" charset="UTF-8" />
+    <file url="file://F:/机构柜台/15、事前风控/事前风控2.0/MSACode/arcs20/arcs-auth/arcs-auth-menufunction" charset="UTF-8" />
+    <file url="file://F:/机构柜台/15、事前风控/事前风控2.0/MSACode/arcs20/arcs-auth/arcs-auth-passwd" charset="UTF-8" />
+    <file url="file://F:/机构柜台/15、事前风控/事前风控2.0/MSACode/arcs20/arcs-auth/arcs-auth-server" charset="UTF-8" />
+    <file url="file://F:/机构柜台/15、事前风控/事前风控2.0/MSACode/arcs20/arcs-auth/arcs-auth-server-zip" charset="UTF-8" />
+    <file url="file://F:/机构柜台/15、事前风控/事前风控2.0/MSACode/arcs20/arcs-biz" charset="UTF-8" />
+    <file url="file://F:/机构柜台/15、事前风控/事前风控2.0/MSACode/arcs20/arcs-biz-pub" charset="UTF-8" />
+    <file url="file://F:/机构柜台/15、事前风控/事前风控2.0/MSACode/arcs20/arcs-biz-pub/arcs-biz-pub-app" charset="UTF-8" />
+    <file url="file://F:/机构柜台/15、事前风控/事前风控2.0/MSACode/arcs20/arcs-biz-pub/arcs-biz-pub-domain" charset="UTF-8" />
+    <file url="file://F:/机构柜台/15、事前风控/事前风控2.0/MSACode/arcs20/arcs-biz-pub/arcs-biz-pub-test" charset="UTF-8" />
+    <file url="file://F:/机构柜台/15、事前风控/事前风控2.0/MSACode/arcs20/arcs-biz/arcs-biz-app" charset="UTF-8" />
+    <file url="file://F:/机构柜台/15、事前风控/事前风控2.0/MSACode/arcs20/arcs-biz/arcs-biz-domain" charset="UTF-8" />
+    <file url="file://F:/机构柜台/15、事前风控/事前风控2.0/MSACode/arcs20/arcs-eccs" charset="UTF-8" />
+    <file url="file://F:/机构柜台/15、事前风控/事前风控2.0/MSACode/arcs20/arcs-init" charset="UTF-8" />
+    <file url="file://F:/机构柜台/15、事前风控/事前风控2.0/MSACode/arcs20/arcs-operator" charset="UTF-8" />
+    <file url="file://F:/机构柜台/15、事前风控/事前风控2.0/MSACode/arcs20/arcs-operator/arcs-operator-app" charset="UTF-8" />
+    <file url="file://F:/机构柜台/15、事前风控/事前风控2.0/MSACode/arcs20/arcs-operator/arcs-operator-domain" charset="UTF-8" />
+    <file url="file://F:/机构柜台/15、事前风控/事前风控2.0/MSACode/arcs20/arcs-operator/arcs-operator-inner" charset="UTF-8" />
+    <file url="file://F:/机构柜台/15、事前风控/事前风控2.0/MSACode/arcs20/arcs-passway" charset="UTF-8" />
+    <file url="file://F:/机构柜台/15、事前风控/事前风控2.0/MSACode/arcs20/arcs-uf" charset="UTF-8" />
+    <file url="file://F:/机构柜台/15、事前风控/事前风控2.0/MSACode/arcs20/arcs-uf/arcs-uf-api" charset="UTF-8" />
+    <file url="file://F:/机构柜台/15、事前风控/事前风控2.0/MSACode/arcs20/arcs-uf/arcs-uf-arcsoperator" charset="UTF-8" />
+    <file url="file://F:/机构柜台/15、事前风控/事前风控2.0/MSACode/arcs20/arcs-uf/arcs-uf20" charset="UTF-8" />
+    <file url="file://F:/机构柜台/15、事前风控/事前风控2.0/MSACode/arcs20/arcs20-deploy" charset="UTF-8" />
+    <file url="file://F:/机构柜台/15、事前风控/事前风控2.0/MSACode/arcs20/arcs20-deploy-zip" charset="UTF-8" />
+    <file url="file://F:/机构柜台/15、事前风控/事前风控2.0/MSACode/arcs20/arcs20-interface-impl" charset="UTF-8" />
+    <file url="file://F:/机构柜台/15、事前风控/事前风控2.0/MSACode/arcs20/arcs20-interface-inner" charset="UTF-8" />
+    <file url="file://F:/机构柜台/15、事前风控/事前风控2.0/MSACode/arcs20/arcs20-pub" charset="UTF-8" />
+  </component>
+</project>

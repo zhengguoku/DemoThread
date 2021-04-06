@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.hundsun.jrescloud:jrescloud-starter:unknown">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/hundsun/jrescloud/jrescloud-starter/unknown/jrescloud-starter-unknown.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/hundsun/jrescloud/jrescloud-starter/unknown/jrescloud-starter-unknown-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/hundsun/jrescloud/jrescloud-starter/unknown/jrescloud-starter-unknown-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

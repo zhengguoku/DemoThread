@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.hundsun.jrescloud:jrescloud-starter-mq-cache:unknown">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/hundsun/jrescloud/jrescloud-starter-mq-cache/unknown/jrescloud-starter-mq-cache-unknown.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/hundsun/jrescloud/jrescloud-starter-mq-cache/unknown/jrescloud-starter-mq-cache-unknown-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/hundsun/jrescloud/jrescloud-starter-mq-cache/unknown/jrescloud-starter-mq-cache-unknown-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

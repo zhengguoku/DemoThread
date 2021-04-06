@@ -1,0 +1,946 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6561fca2-b6cc-4f93-bedd-bff53d510201" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="F:/机构柜台/15、事前风控/事前风控2.0/MSACode/arcs20/arcs-operator/target/" />
+    <ignored path="F:/机构柜台/15、事前风控/事前风控2.0/MSACode/arcs20/arcs-biz/arcs-biz-domain/target/" />
+    <ignored path="F:/机构柜台/15、事前风控/事前风控2.0/MSACode/arcs20/arcs-auth/arcs-auth-server/target/" />
+    <ignored path="F:/机构柜台/15、事前风控/事前风控2.0/MSACode/arcs20/arcs20-interface-impl/target/" />
+    <ignored path="F:/机构柜台/15、事前风控/事前风控2.0/MSACode/arcs20/arcs20-deploy/target/" />
+    <ignored path="F:/机构柜台/15、事前风控/事前风控2.0/MSACode/arcs20/arcs20-pub/target/" />
+    <ignored path="F:/机构柜台/15、事前风控/事前风控2.0/MSACode/arcs20/target/" />
+    <ignored path="F:/机构柜台/15、事前风控/事前风控2.0/MSACode/arcs20/arcs-uf/arcs-uf-arcsoperator/target/" />
+    <ignored path="F:/机构柜台/15、事前风控/事前风控2.0/MSACode/arcs20/arcs-init/target/" />
+    <ignored path="F:/机构柜台/15、事前风控/事前风控2.0/MSACode/arcs20/arcs-auth/arcs-auth-menufunction/target/" />
+    <ignored path="F:/机构柜台/15、事前风控/事前风控2.0/MSACode/arcs20/arcs-biz-pub/target/" />
+    <ignored path="F:/机构柜台/15、事前风控/事前风控2.0/MSACode/arcs20/arcs20-deploy-zip/target/" />
+    <ignored path="F:/机构柜台/15、事前风控/事前风控2.0/MSACode/arcs20/arcs-operator/arcs-operator-app/target/" />
+    <ignored path="F:/机构柜台/15、事前风控/事前风控2.0/MSACode/arcs20/arcs-biz-pub/arcs-biz-pub-domain/target/" />
+    <ignored path="F:/机构柜台/15、事前风控/事前风控2.0/MSACode/arcs20/arcs-passway/target/" />
+    <ignored path="F:/机构柜台/15、事前风控/事前风控2.0/MSACode/arcs20/arcs-biz/arcs-biz-app/target/" />
+    <ignored path="F:/机构柜台/15、事前风控/事前风控2.0/MSACode/arcs20/arcs-auth/arcs-auth-passwd/target/" />
+    <ignored path="F:/机构柜台/15、事前风控/事前风控2.0/MSACode/arcs20/arcs-operator/arcs-operator-inner/target/" />
+    <ignored path="F:/机构柜台/15、事前风控/事前风控2.0/MSACode/arcs20/arcs-biz-pub/arcs-biz-pub-app/target/" />
+    <ignored path="F:/机构柜台/15、事前风控/事前风控2.0/MSACode/arcs20/arcs-uf/target/" />
+    <ignored path="F:/机构柜台/15、事前风控/事前风控2.0/MSACode/arcs20/arcs-auth/arcs-auth-api/target/" />
+    <ignored path="F:/机构柜台/15、事前风控/事前风控2.0/MSACode/arcs20/arcs-biz-pub/arcs-biz-pub-test/target/" />
+    <ignored path="F:/机构柜台/15、事前风控/事前风控2.0/MSACode/arcs20/arcs-auth/arcs-auth-server-zip/target/" />
+    <ignored path="F:/机构柜台/15、事前风控/事前风控2.0/MSACode/arcs20/arcs-uf/arcs-uf20/target/" />
+    <ignored path="F:/机构柜台/15、事前风控/事前风控2.0/MSACode/arcs20/arcs-uf/arcs-uf-api/target/" />
+    <ignored path="F:/机构柜台/15、事前风控/事前风控2.0/MSACode/arcs20/arcs-biz/target/" />
+    <ignored path="F:/机构柜台/15、事前风控/事前风控2.0/MSACode/arcs20/arcs-auth/target/" />
+    <ignored path="F:/机构柜台/15、事前风控/事前风控2.0/MSACode/arcs20/arcs-eccs/target/" />
+    <ignored path="F:/机构柜台/15、事前风控/事前风控2.0/MSACode/arcs20/arcs20-interface-inner/target/" />
+    <ignored path="F:/机构柜台/15、事前风控/事前风控2.0/MSACode/arcs20/arcs-operator/arcs-operator-domain/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="DemoThread18.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/DemoThread18.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="493">
+              <caret line="31" column="1" lean-forward="false" selection-start-line="31" selection-start-column="1" selection-end-line="31" selection-end-column="1" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
+        <entry file="file://F:/机构柜台/15、事前风控/事前风控2.0/MSACode/arcs20/pom.xml">
+          <provider editor-type-id="MavenHelperPluginDependencyAnalyzer">
+            <state />
+          </provider>
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="476">
+              <caret line="28" column="8" lean-forward="true" selection-start-line="28" selection-start-column="8" selection-end-line="28" selection-end-column="8" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="GroupInfo.java" pinned="false" current-in-tab="false">
+        <entry file="file://F:/机构柜台/15、事前风控/事前风控2.0/MSACode/arcs20/arcs-biz/arcs-biz-domain/src/main/java/com/hundsun/arcs/biz/bean/GroupInfo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="238">
+              <caret line="25" column="0" lean-forward="false" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AbnormalstockDAO.java" pinned="false" current-in-tab="false">
+        <entry file="file://F:/机构柜台/15、事前风控/事前风控2.0/MSACode/arcs20/arcs-biz/arcs-biz-domain/src/main/java/com/hundsun/arcs/biz/dao/AbnormalstockDAO.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="25" column="17" lean-forward="false" selection-start-line="25" selection-start-column="17" selection-end-line="25" selection-end-column="17" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AccountgroupinfoDAO.java" pinned="false" current-in-tab="false">
+        <entry file="file://F:/机构柜台/15、事前风控/事前风控2.0/MSACode/arcs20/arcs-biz/arcs-biz-domain/src/main/java/com/hundsun/arcs/biz/dao/AccountgroupinfoDAO.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1671">
+              <caret line="28" column="17" lean-forward="false" selection-start-line="28" selection-start-column="17" selection-end-line="28" selection-end-column="17" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="HentrustinfoDAO.java" pinned="false" current-in-tab="false">
+        <entry file="file://F:/机构柜台/15、事前风控/事前风控2.0/MSACode/arcs20/arcs-biz/arcs-biz-domain/src/main/java/com/hundsun/arcs/biz/dao/HentrustinfoDAO.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="21" column="17" lean-forward="false" selection-start-line="21" selection-start-column="17" selection-end-line="21" selection-end-column="17" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BehavioraltriggerinfoDAO.java" pinned="false" current-in-tab="false">
+        <entry file="file://F:/机构柜台/15、事前风控/事前风控2.0/MSACode/arcs20/arcs-biz/arcs-biz-domain/src/main/java/com/hundsun/arcs/biz/dao/BehavioraltriggerinfoDAO.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-447">
+              <caret line="28" column="17" lean-forward="false" selection-start-line="28" selection-start-column="17" selection-end-line="28" selection-end-column="17" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SupstkcodeinfoDAO.java" pinned="false" current-in-tab="true">
+        <entry file="file://F:/机构柜台/15、事前风控/事前风控2.0/MSACode/arcs20/arcs-biz/arcs-biz-domain/src/main/java/com/hundsun/arcs/biz/dao/SupstkcodeinfoDAO.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="25" column="17" lean-forward="false" selection-start-line="25" selection-start-column="17" selection-end-line="25" selection-end-column="17" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Thread.java" pinned="false" current-in-tab="false">
+        <entry file="jar://C:/Program Files/Java/jdk1.8.0_51/src.zip!/java/lang/Thread.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3774">
+              <caret line="265" column="7" lean-forward="false" selection-start-line="265" selection-start-column="7" selection-end-line="265" selection-end-column="7" />
+              <folding>
+                <element signature="initializer##0;class#Thread#0" expanded="false" />
+                <element signature="e#42725#42726#0" expanded="true" />
+                <element signature="e#42756#42757#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>import java\.util\.Scanner\;\n\npublic class Main\{\n    public static void main\(String\[\] args\)\{\n        Scanner sc \= new Scanner\(System\.in\)\;\n        int count \= sc\.nextInt\(\)\;\n\n        for \(int i \= 0\;i \&lt; count\;i\+\+\)\{\n            int sum \= 0\;\n            int length \= sc\.nextInt\(\)\;\n\n                for \(int j \= 0\;j\&lt;length\;j\+\+\)\{\n                    int num \= sc\.nextInt\(\)\;\n                    sum \+\= num\;\n\n\n\n            \}\n            System\.out\.println\(sum\)\;\n\n        \}\n    \}\n\}</find>
+      <find>run</find>
+      <find>join()</find>
+    </findStrings>
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/DemoThreadPool04.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/DemoThread15.java" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/ListNode.java" />
+        <option value="$PROJECT_DIR$/src/test.java" />
+        <option value="$PROJECT_DIR$/src/Test1.java" />
+        <option value="$PROJECT_DIR$/src/Main.java" />
+        <option value="$PROJECT_DIR$/src/ss.java" />
+        <option value="$PROJECT_DIR$/src/DemoThread.java" />
+        <option value="$PROJECT_DIR$/src/Mythread.java" />
+        <option value="$PROJECT_DIR$/src/Mythread01.java" />
+        <option value="$PROJECT_DIR$/src/Mythread02.java" />
+        <option value="$PROJECT_DIR$/src/DemoThread03.java" />
+        <option value="$PROJECT_DIR$/src/DemoThread04.java" />
+        <option value="$PROJECT_DIR$/src/DemoThread05.java" />
+        <option value="$PROJECT_DIR$/src/DemoThread06.java" />
+        <option value="$PROJECT_DIR$/src/DemoThread07.java" />
+        <option value="$PROJECT_DIR$/src/lottery.java" />
+        <option value="$PROJECT_DIR$/src/DemoThread08.java" />
+        <option value="$PROJECT_DIR$/src/DemoThread09.java" />
+        <option value="$PROJECT_DIR$/src/DemoThread01.java" />
+        <option value="$PROJECT_DIR$/src/DemoThread02.java" />
+        <option value="$PROJECT_DIR$/src/DemoThread10.java" />
+        <option value="$PROJECT_DIR$/src/DemoThread11.java" />
+        <option value="$PROJECT_DIR$/src/DemoThread12.java" />
+        <option value="$PROJECT_DIR$/src/DemoThread13.java" />
+        <option value="$PROJECT_DIR$/src/DemoThread14.java" />
+        <option value="$PROJECT_DIR$/src/DemoThread15.java" />
+        <option value="$PROJECT_DIR$/src/DemoThread16.java" />
+        <option value="$PROJECT_DIR$/src/DemoThreadPool01.java" />
+        <option value="$PROJECT_DIR$/src/DemoThreadPool02.java" />
+        <option value="$PROJECT_DIR$/src/DemoThreadPool03.java" />
+        <option value="$PROJECT_DIR$/src/DemoThreadPool04.java" />
+        <option value="$PROJECT_DIR$/src/DemoThread17.java" />
+        <option value="$PROJECT_DIR$/src/DemoThread18.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1304" />
+    <option name="height" value="784" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="niuke" type="b2602c69:ProjectViewProjectNode" />
+              <item name="arcs20" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="niuke" type="b2602c69:ProjectViewProjectNode" />
+              <item name="arcs20" type="462c0819:PsiDirectoryNode" />
+              <item name="arcs-biz" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="niuke" type="b2602c69:ProjectViewProjectNode" />
+              <item name="arcs20" type="462c0819:PsiDirectoryNode" />
+              <item name="arcs-biz" type="462c0819:PsiDirectoryNode" />
+              <item name="arcs-biz-domain" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="niuke" type="b2602c69:ProjectViewProjectNode" />
+              <item name="arcs20" type="462c0819:PsiDirectoryNode" />
+              <item name="arcs-biz" type="462c0819:PsiDirectoryNode" />
+              <item name="arcs-biz-domain" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="niuke" type="b2602c69:ProjectViewProjectNode" />
+              <item name="arcs20" type="462c0819:PsiDirectoryNode" />
+              <item name="arcs-biz" type="462c0819:PsiDirectoryNode" />
+              <item name="arcs-biz-domain" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="niuke" type="b2602c69:ProjectViewProjectNode" />
+              <item name="arcs20" type="462c0819:PsiDirectoryNode" />
+              <item name="arcs-biz" type="462c0819:PsiDirectoryNode" />
+              <item name="arcs-biz-domain" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="niuke" type="b2602c69:ProjectViewProjectNode" />
+              <item name="arcs20" type="462c0819:PsiDirectoryNode" />
+              <item name="arcs-biz" type="462c0819:PsiDirectoryNode" />
+              <item name="arcs-biz-domain" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="niuke" type="b2602c69:ProjectViewProjectNode" />
+              <item name="arcs20" type="462c0819:PsiDirectoryNode" />
+              <item name="arcs-biz" type="462c0819:PsiDirectoryNode" />
+              <item name="arcs-biz-domain" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="hundsun" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="niuke" type="b2602c69:ProjectViewProjectNode" />
+              <item name="arcs20" type="462c0819:PsiDirectoryNode" />
+              <item name="arcs-biz" type="462c0819:PsiDirectoryNode" />
+              <item name="arcs-biz-domain" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="hundsun" type="462c0819:PsiDirectoryNode" />
+              <item name="arcs" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="niuke" type="b2602c69:ProjectViewProjectNode" />
+              <item name="arcs20" type="462c0819:PsiDirectoryNode" />
+              <item name="arcs-biz" type="462c0819:PsiDirectoryNode" />
+              <item name="arcs-biz-domain" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="hundsun" type="462c0819:PsiDirectoryNode" />
+              <item name="arcs" type="462c0819:PsiDirectoryNode" />
+              <item name="biz" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="niuke" type="b2602c69:ProjectViewProjectNode" />
+              <item name="arcs20" type="462c0819:PsiDirectoryNode" />
+              <item name="arcs-biz" type="462c0819:PsiDirectoryNode" />
+              <item name="arcs-biz-domain" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="hundsun" type="462c0819:PsiDirectoryNode" />
+              <item name="arcs" type="462c0819:PsiDirectoryNode" />
+              <item name="biz" type="462c0819:PsiDirectoryNode" />
+              <item name="annotation" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="niuke" type="b2602c69:ProjectViewProjectNode" />
+              <item name="arcs20" type="462c0819:PsiDirectoryNode" />
+              <item name="arcs-biz" type="462c0819:PsiDirectoryNode" />
+              <item name="arcs-biz-domain" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="hundsun" type="462c0819:PsiDirectoryNode" />
+              <item name="arcs" type="462c0819:PsiDirectoryNode" />
+              <item name="biz" type="462c0819:PsiDirectoryNode" />
+              <item name="bean" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="niuke" type="b2602c69:ProjectViewProjectNode" />
+              <item name="arcs20" type="462c0819:PsiDirectoryNode" />
+              <item name="arcs-biz" type="462c0819:PsiDirectoryNode" />
+              <item name="arcs-biz-domain" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="hundsun" type="462c0819:PsiDirectoryNode" />
+              <item name="arcs" type="462c0819:PsiDirectoryNode" />
+              <item name="biz" type="462c0819:PsiDirectoryNode" />
+              <item name="dao" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="AndroidView" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="F:/机构柜台/15、事前风控/事前风控2.0/MSACode/arcs20" />
+    <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://E:/my/DEMO/niuke/src/DemoThreadPool04.java" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.DemoThread18">
+    <configuration name="DemoThread17" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" value="DemoThread17" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="Thread" />
+      <envs />
+    </configuration>
+    <configuration name="DemoThread18" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" value="DemoThread18" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="Thread" />
+      <envs />
+    </configuration>
+    <configuration name="DemoThreadPool02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" value="DemoThreadPool02" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="Thread" />
+      <envs />
+    </configuration>
+    <configuration name="DemoThreadPool03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" value="DemoThreadPool03" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="Thread" />
+      <envs />
+    </configuration>
+    <configuration name="DemoThreadPool04" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" value="DemoThreadPool04" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="Thread" />
+      <envs />
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="niuke" />
+      <envs />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <list size="5">
+      <item index="0" class="java.lang.String" itemvalue="Application.DemoThreadPool02" />
+      <item index="1" class="java.lang.String" itemvalue="Application.DemoThreadPool03" />
+      <item index="2" class="java.lang.String" itemvalue="Application.DemoThreadPool04" />
+      <item index="3" class="java.lang.String" itemvalue="Application.DemoThread17" />
+      <item index="4" class="java.lang.String" itemvalue="Application.DemoThread18" />
+    </list>
+    <recent_temporary>
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Application.DemoThread18" />
+        <item index="1" class="java.lang.String" itemvalue="Application.DemoThread17" />
+        <item index="2" class="java.lang.String" itemvalue="Application.DemoThreadPool04" />
+        <item index="3" class="java.lang.String" itemvalue="Application.DemoThreadPool03" />
+        <item index="4" class="java.lang.String" itemvalue="Application.DemoThreadPool02" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6561fca2-b6cc-4f93-bedd-bff53d510201" name="Default" comment="" />
+      <created>1616765173620</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1616765173620</updated>
+      <workItem from="1616765177821" duration="9408000" />
+      <workItem from="1616847112640" duration="4508000" />
+      <workItem from="1616999123378" duration="5691000" />
+      <workItem from="1617066365505" duration="20791000" />
+      <workItem from="1617159744856" duration="2565000" />
+      <workItem from="1617694901727" duration="1994000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="44957000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1858" height="1096" extended-state="6" />
+    <layout>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32917964" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2886812" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32917964" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26529476" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25441328" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32872504" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="21" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/Main.java" />
+    <entry file="file://$PROJECT_DIR$/src/test.java" />
+    <entry file="file://$PROJECT_DIR$/src/Test1.java" />
+    <entry file="file://$PROJECT_DIR$/src/ListNode.java" />
+    <entry file="file://$PROJECT_DIR$/src/ss.java" />
+    <entry file="file://$PROJECT_DIR$/src/Main.java" />
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_51/src.zip!/java/util/Map.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="128" column="17" lean-forward="false" selection-start-line="128" selection-start-column="17" selection-end-line="128" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_51/src.zip!/java/util/Scanner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="1532" column="18" lean-forward="false" selection-start-line="1532" selection-start-column="18" selection-end-line="1532" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Test1.java" />
+    <entry file="file://$PROJECT_DIR$/src/ListNode.java" />
+    <entry file="file://$PROJECT_DIR$/src/ss.java" />
+    <entry file="file://$PROJECT_DIR$/src/test.java" />
+    <entry file="file://$PROJECT_DIR$/src/Main.java" />
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_51/src.zip!/java/lang/Runnable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="544">
+          <caret line="55" column="25" lean-forward="false" selection-start-line="55" selection-start-column="17" selection-end-line="55" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DemoThread03.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="44" lean-forward="false" selection-start-line="7" selection-start-column="44" selection-end-line="7" selection-end-column="44" />
+          <folding>
+            <element signature="e#299#300#0" expanded="false" />
+            <element signature="e#391#392#0" expanded="false" />
+            <element signature="e#525#526#0" expanded="false" />
+            <element signature="e#617#618#0" expanded="false" />
+            <element signature="e#732#733#0" expanded="false" />
+            <element signature="e#803#804#0" expanded="false" />
+            <element signature="e#930#931#0" expanded="false" />
+            <element signature="e#1017#1018#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DemoThread04.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="629">
+          <caret line="47" column="19" lean-forward="false" selection-start-line="47" selection-start-column="19" selection-end-line="47" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DemoThread05.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="0" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+          <folding>
+            <element signature="e#246#247#0" expanded="false" />
+            <element signature="e#309#310#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DemoThread06.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="464">
+          <caret line="35" column="20" lean-forward="true" selection-start-line="35" selection-start-column="20" selection-end-line="35" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DemoThread07.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="13" lean-forward="true" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_51/src.zip!/java/lang/Math.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="213">
+          <caret line="771" column="25" lean-forward="false" selection-start-line="771" selection-start-column="25" selection-end-line="771" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lottery.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="26" lean-forward="false" selection-start-line="16" selection-start-column="26" selection-end-line="16" selection-end-column="26" />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#228#237#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DemoThread08.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="544">
+          <caret line="32" column="1" lean-forward="true" selection-start-line="32" selection-start-column="1" selection-end-line="32" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DemoThread09.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="515">
+          <caret line="35" column="0" lean-forward="true" selection-start-line="35" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
+          <folding>
+            <element signature="e#531#532#0" expanded="false" />
+            <element signature="e#592#593#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Mythread01.java" />
+    <entry file="file://$PROJECT_DIR$/src/DemoThread01.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="21" column="0" lean-forward="true" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Mythread02.java" />
+    <entry file="file://$PROJECT_DIR$/src/DemoThread02.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="362">
+          <caret line="30" column="0" lean-forward="true" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DemoThread10.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="19" lean-forward="false" selection-start-line="20" selection-start-column="16" selection-end-line="20" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DemoThread11.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="21" lean-forward="true" selection-start-line="21" selection-start-column="21" selection-end-line="21" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_51/src.zip!/java/util/Queue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="369">
+          <caret line="180" column="12" lean-forward="false" selection-start-line="180" selection-start-column="12" selection-end-line="180" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DemoThreadPool04.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="388">
+          <caret line="33" column="11" lean-forward="true" selection-start-line="33" selection-start-column="11" selection-end-line="33" selection-end-column="11" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DemoThreadPool03.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="5" lean-forward="true" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#486#487#0" expanded="false" />
+            <element signature="e#555#556#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DemoThread16.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="29" column="21" lean-forward="false" selection-start-line="29" selection-start-column="21" selection-end-line="29" selection-end-column="21" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_51/jre/lib/rt.jar!/sun/misc/Unsafe.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="233">
+          <caret line="349" column="62" lean-forward="true" selection-start-line="349" selection-start-column="62" selection-end-line="349" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_51/src.zip!/java/util/concurrent/locks/LockSupport.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="199">
+          <caret line="140" column="21" lean-forward="true" selection-start-line="140" selection-start-column="21" selection-end-line="140" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DemoThread15.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="8" lean-forward="false" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DemoThreadPool02.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="116">
+          <caret line="10" column="72" lean-forward="false" selection-start-line="10" selection-start-column="72" selection-end-line="10" selection-end-column="72" />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#1151#1152#0" expanded="false" />
+            <element signature="e#1243#1244#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DemoThreadPool01.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="32" column="31" lean-forward="false" selection-start-line="32" selection-start-column="31" selection-end-line="32" selection-end-column="31" />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#791#792#0" expanded="false" />
+            <element signature="e#884#885#0" expanded="false" />
+            <element signature="e#1092#1093#0" expanded="false" />
+            <element signature="e#1207#1208#0" expanded="false" />
+            <element signature="e#1300#1301#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DemoThread12.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="9" column="13" lean-forward="false" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DemoThread13.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="544">
+          <caret line="32" column="13" lean-forward="false" selection-start-line="32" selection-start-column="13" selection-end-line="32" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DemoThread14.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="45" lean-forward="false" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="45" />
+          <folding>
+            <element signature="e#387#388#0" expanded="false" />
+            <element signature="e#430#431#0" expanded="false" />
+            <element signature="e#572#573#0" expanded="false" />
+            <element signature="e#615#616#0" expanded="false" />
+            <element signature="e#756#757#0" expanded="false" />
+            <element signature="e#799#800#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DemoThread17.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="27" column="21" lean-forward="true" selection-start-line="27" selection-start-column="21" selection-end-line="27" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_51/src.zip!/java/lang/Thread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3774">
+          <caret line="265" column="7" lean-forward="false" selection-start-line="265" selection-start-column="7" selection-end-line="265" selection-end-column="7" />
+          <folding>
+            <element signature="initializer##0;class#Thread#0" expanded="false" />
+            <element signature="e#42725#42726#0" expanded="true" />
+            <element signature="e#42756#42757#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DemoThread18.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="31" column="1" lean-forward="false" selection-start-line="31" selection-start-column="1" selection-end-line="31" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://F:/机构柜台/15、事前风控/事前风控2.0/MSACode/arcs20/pom.xml">
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="28" column="8" lean-forward="true" selection-start-line="28" selection-start-column="8" selection-end-line="28" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://F:/机构柜台/15、事前风控/事前风控2.0/MSACode/arcs20/arcs-biz/arcs-biz-domain/src/main/java/com/hundsun/arcs/biz/bean/GroupInfo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="25" column="0" lean-forward="false" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://F:/机构柜台/15、事前风控/事前风控2.0/MSACode/arcs20/arcs-biz/arcs-biz-domain/src/main/java/com/hundsun/arcs/biz/dao/AbnormalstockDAO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="25" column="17" lean-forward="false" selection-start-line="25" selection-start-column="17" selection-end-line="25" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://F:/机构柜台/15、事前风控/事前风控2.0/MSACode/arcs20/arcs-biz/arcs-biz-domain/src/main/java/com/hundsun/arcs/biz/dao/AccountgroupinfoDAO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1671">
+          <caret line="28" column="17" lean-forward="false" selection-start-line="28" selection-start-column="17" selection-end-line="28" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://F:/机构柜台/15、事前风控/事前风控2.0/MSACode/arcs20/arcs-biz/arcs-biz-domain/src/main/java/com/hundsun/arcs/biz/dao/HentrustinfoDAO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="21" column="17" lean-forward="false" selection-start-line="21" selection-start-column="17" selection-end-line="21" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://F:/机构柜台/15、事前风控/事前风控2.0/MSACode/arcs20/arcs-biz/arcs-biz-domain/src/main/java/com/hundsun/arcs/biz/dao/BehavioraltriggerinfoDAO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-447">
+          <caret line="28" column="17" lean-forward="false" selection-start-line="28" selection-start-column="17" selection-end-line="28" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://F:/机构柜台/15、事前风控/事前风控2.0/MSACode/arcs20/arcs-biz/arcs-biz-domain/src/main/java/com/hundsun/arcs/biz/dao/SupstkcodeinfoDAO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="25" column="17" lean-forward="false" selection-start-line="25" selection-start-column="17" selection-end-line="25" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

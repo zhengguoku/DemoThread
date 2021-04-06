@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Thread.iml" filepath="$PROJECT_DIR$/Thread.iml" />
+      <module fileurl="file://F:/机构柜台/15、事前风控/事前风控2.0/MSACode/arcs20/arcs-auth/arcs-auth.iml" filepath="F:/机构柜台/15、事前风控/事前风控2.0/MSACode/arcs20/arcs-auth/arcs-auth.iml" />
+      <module fileurl="file://F:/机构柜台/15、事前风控/事前风控2.0/MSACode/arcs20/arcs-auth/arcs-auth-api/arcs-auth-api.iml" filepath="F:/机构柜台/15、事前风控/事前风控2.0/MSACode/arcs20/arcs-auth/arcs-auth-api/arcs-auth-api.iml" />
+      <module fileurl="file://F:/机构柜台/15、事前风控/事前风控2.0/MSACode/arcs20/arcs-auth/arcs-auth-menufunction/arcs-auth-menufunction.iml" filepath="F:/机构柜台/15、事前风控/事前风控2.0/MSACode/arcs20/arcs-auth/arcs-auth-menufunction/arcs-auth-menufunction.iml" />
+      <module fileurl="file://F:/机构柜台/15、事前风控/事前风控2.0/MSACode/arcs20/arcs-auth/arcs-auth-passwd/arcs-auth-passwd.iml" filepath="F:/机构柜台/15、事前风控/事前风控2.0/MSACode/arcs20/arcs-auth/arcs-auth-passwd/arcs-auth-passwd.iml" />
+      <module fileurl="file://F:/机构柜台/15、事前风控/事前风控2.0/MSACode/arcs20/arcs-auth/arcs-auth-server/arcs-auth-server.iml" filepath="F:/机构柜台/15、事前风控/事前风控2.0/MSACode/arcs20/arcs-auth/arcs-auth-server/arcs-auth-server.iml" />
+      <module fileurl="file://F:/机构柜台/15、事前风控/事前风控2.0/MSACode/arcs20/arcs-auth/arcs-auth-server-zip/arcs-auth-server-zip.iml" filepath="F:/机构柜台/15、事前风控/事前风控2.0/MSACode/arcs20/arcs-auth/arcs-auth-server-zip/arcs-auth-server-zip.iml" />
+      <module fileurl="file://F:/机构柜台/15、事前风控/事前风控2.0/MSACode/arcs20/arcs-biz/arcs-biz.iml" filepath="F:/机构柜台/15、事前风控/事前风控2.0/MSACode/arcs20/arcs-biz/arcs-biz.iml" />
+      <module fileurl="file://F:/机构柜台/15、事前风控/事前风控2.0/MSACode/arcs20/arcs-biz/arcs-biz-app/arcs-biz-app.iml" filepath="F:/机构柜台/15、事前风控/事前风控2.0/MSACode/arcs20/arcs-biz/arcs-biz-app/arcs-biz-app.iml" />
+      <module fileurl="file://F:/机构柜台/15、事前风控/事前风控2.0/MSACode/arcs20/arcs-biz/arcs-biz-domain/arcs-biz-domain.iml" filepath="F:/机构柜台/15、事前风控/事前风控2.0/MSACode/arcs20/arcs-biz/arcs-biz-domain/arcs-biz-domain.iml" />
+      <module fileurl="file://F:/机构柜台/15、事前风控/事前风控2.0/MSACode/arcs20/arcs-biz-pub/arcs-biz-pub.iml" filepath="F:/机构柜台/15、事前风控/事前风控2.0/MSACode/arcs20/arcs-biz-pub/arcs-biz-pub.iml" />
+      <module fileurl="file://F:/机构柜台/15、事前风控/事前风控2.0/MSACode/arcs20/arcs-biz-pub/arcs-biz-pub-app/arcs-biz-pub-app.iml" filepath="F:/机构柜台/15、事前风控/事前风控2.0/MSACode/arcs20/arcs-biz-pub/arcs-biz-pub-app/arcs-biz-pub-app.iml" />
+      <module fileurl="file://F:/机构柜台/15、事前风控/事前风控2.0/MSACode/arcs20/arcs-biz-pub/arcs-biz-pub-domain/arcs-biz-pub-domain.iml" filepath="F:/机构柜台/15、事前风控/事前风控2.0/MSACode/arcs20/arcs-biz-pub/arcs-biz-pub-domain/arcs-biz-pub-domain.iml" />
+      <module fileurl="file://F:/机构柜台/15、事前风控/事前风控2.0/MSACode/arcs20/arcs-biz-pub/arcs-biz-pub-test/arcs-biz-pub-test.iml" filepath="F:/机构柜台/15、事前风控/事前风控2.0/MSACode/arcs20/arcs-biz-pub/arcs-biz-pub-test/arcs-biz-pub-test.iml" />
+      <module fileurl="file://F:/机构柜台/15、事前风控/事前风控2.0/MSACode/arcs20/arcs-eccs/arcs-eccs.iml" filepath="F:/机构柜台/15、事前风控/事前风控2.0/MSACode/arcs20/arcs-eccs/arcs-eccs.iml" />
+      <module fileurl="file://F:/机构柜台/15、事前风控/事前风控2.0/MSACode/arcs20/arcs-init/arcs-init.iml" filepath="F:/机构柜台/15、事前风控/事前风控2.0/MSACode/arcs20/arcs-init/arcs-init.iml" />
+      <module fileurl="file://F:/机构柜台/15、事前风控/事前风控2.0/MSACode/arcs20/arcs-operator/arcs-operator.iml" filepath="F:/机构柜台/15、事前风控/事前风控2.0/MSACode/arcs20/arcs-operator/arcs-operator.iml" />
+      <module fileurl="file://F:/机构柜台/15、事前风控/事前风控2.0/MSACode/arcs20/arcs-operator/arcs-operator-app/arcs-operator-app.iml" filepath="F:/机构柜台/15、事前风控/事前风控2.0/MSACode/arcs20/arcs-operator/arcs-operator-app/arcs-operator-app.iml" />
+      <module fileurl="file://F:/机构柜台/15、事前风控/事前风控2.0/MSACode/arcs20/arcs-operator/arcs-operator-domain/arcs-operator-domain.iml" filepath="F:/机构柜台/15、事前风控/事前风控2.0/MSACode/arcs20/arcs-operator/arcs-operator-domain/arcs-operator-domain.iml" />
+      <module fileurl="file://F:/机构柜台/15、事前风控/事前风控2.0/MSACode/arcs20/arcs-operator/arcs-operator-inner/arcs-operator-inner.iml" filepath="F:/机构柜台/15、事前风控/事前风控2.0/MSACode/arcs20/arcs-operator/arcs-operator-inner/arcs-operator-inner.iml" />
+      <module fileurl="file://F:/机构柜台/15、事前风控/事前风控2.0/MSACode/arcs20/arcs-passway/arcs-passway.iml" filepath="F:/机构柜台/15、事前风控/事前风控2.0/MSACode/arcs20/arcs-passway/arcs-passway.iml" />
+      <module fileurl="file://F:/机构柜台/15、事前风控/事前风控2.0/MSACode/arcs20/arcs-uf/arcs-uf.iml" filepath="F:/机构柜台/15、事前风控/事前风控2.0/MSACode/arcs20/arcs-uf/arcs-uf.iml" />
+      <module fileurl="file://F:/机构柜台/15、事前风控/事前风控2.0/MSACode/arcs20/arcs-uf/arcs-uf-api/arcs-uf-api.iml" filepath="F:/机构柜台/15、事前风控/事前风控2.0/MSACode/arcs20/arcs-uf/arcs-uf-api/arcs-uf-api.iml" />
+      <module fileurl="file://F:/机构柜台/15、事前风控/事前风控2.0/MSACode/arcs20/arcs-uf/arcs-uf-arcsoperator/arcs-uf-arcsoperator.iml" filepath="F:/机构柜台/15、事前风控/事前风控2.0/MSACode/arcs20/arcs-uf/arcs-uf-arcsoperator/arcs-uf-arcsoperator.iml" />
+      <module fileurl="file://F:/机构柜台/15、事前风控/事前风控2.0/MSACode/arcs20/arcs-uf/arcs-uf20/arcs-uf20.iml" filepath="F:/机构柜台/15、事前风控/事前风控2.0/MSACode/arcs20/arcs-uf/arcs-uf20/arcs-uf20.iml" />
+      <module fileurl="file://F:/机构柜台/15、事前风控/事前风控2.0/MSACode/arcs20/arcs20.iml" filepath="F:/机构柜台/15、事前风控/事前风控2.0/MSACode/arcs20/arcs20.iml" />
+      <module fileurl="file://F:/机构柜台/15、事前风控/事前风控2.0/MSACode/arcs20/arcs20-deploy/arcs20-deploy.iml" filepath="F:/机构柜台/15、事前风控/事前风控2.0/MSACode/arcs20/arcs20-deploy/arcs20-deploy.iml" />
+      <module fileurl="file://F:/机构柜台/15、事前风控/事前风控2.0/MSACode/arcs20/arcs20-deploy-zip/arcs20-deploy-zip.iml" filepath="F:/机构柜台/15、事前风控/事前风控2.0/MSACode/arcs20/arcs20-deploy-zip/arcs20-deploy-zip.iml" />
+      <module fileurl="file://F:/机构柜台/15、事前风控/事前风控2.0/MSACode/arcs20/arcs20-interface-impl/arcs20-interface-impl.iml" filepath="F:/机构柜台/15、事前风控/事前风控2.0/MSACode/arcs20/arcs20-interface-impl/arcs20-interface-impl.iml" />
+      <module fileurl="file://F:/机构柜台/15、事前风控/事前风控2.0/MSACode/arcs20/arcs20-interface-inner/arcs20-interface-inner.iml" filepath="F:/机构柜台/15、事前风控/事前风控2.0/MSACode/arcs20/arcs20-interface-inner/arcs20-interface-inner.iml" />
+      <module fileurl="file://F:/机构柜台/15、事前风控/事前风控2.0/MSACode/arcs20/arcs20-pub/arcs20-pub.iml" filepath="F:/机构柜台/15、事前风控/事前风控2.0/MSACode/arcs20/arcs20-pub/arcs20-pub.iml" />
+    </modules>
+  </component>
+</project>

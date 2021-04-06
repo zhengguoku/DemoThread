@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.hundsun.jrescloud:jrescloud-rpc-def-auth:unknown">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/hundsun/jrescloud/jrescloud-rpc-def-auth/unknown/jrescloud-rpc-def-auth-unknown.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/hundsun/jrescloud/jrescloud-rpc-def-auth/unknown/jrescloud-rpc-def-auth-unknown-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/hundsun/jrescloud/jrescloud-rpc-def-auth/unknown/jrescloud-rpc-def-auth-unknown-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
