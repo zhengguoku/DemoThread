@@ -4,7 +4,43 @@
     <option name="originalFiles">
       <list>
         <option value="F:/机构柜台/15、事前风控/事前风控2.0/MSACode/arcs20/pom.xml" />
+        <option value="$PROJECT_DIR$/../../../../my/myself/学习/Jres3.0/JRESCLOUD3.0V202103.00.000.springboot2-3.0.11/JRESCLOUD3.0V202103.00.000.springboot2-3.0.11/JRESCLOUD3.0V202103.00.000.springboot2-3.0.11/demo-def/pom.xml" />
+        <option value="$PROJECT_DIR$/../../../../my/myself/学习/Jres3.0/JRESCLOUD3.0V202103.00.000.springboot2-3.0.11/JRESCLOUD3.0V202103.00.000.springboot2-3.0.11/JRESCLOUD3.0V202103.00.000.springboot2-3.0.11/demo-log/pom.xml" />
+        <option value="$PROJECT_DIR$/../../../../my/myself/学习/Jres3.0/JRESCLOUD3.0V202103.00.000.springboot2-3.0.11/JRESCLOUD3.0V202103.00.000.springboot2-3.0.11/JRESCLOUD3.0V202103.00.000.springboot2-3.0.11/demo-rpc/pom.xml" />
       </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="F:/机构柜台/15、事前风控/事前风控2.0/MSACode/arcs20/arcs-auth/arcs-auth-api/pom.xml" />
+        <option value="F:/机构柜台/15、事前风控/事前风控2.0/MSACode/arcs20/arcs-auth/arcs-auth-menufunction/pom.xml" />
+        <option value="F:/机构柜台/15、事前风控/事前风控2.0/MSACode/arcs20/arcs-auth/arcs-auth-passwd/pom.xml" />
+        <option value="F:/机构柜台/15、事前风控/事前风控2.0/MSACode/arcs20/arcs-auth/arcs-auth-server-zip/pom.xml" />
+        <option value="F:/机构柜台/15、事前风控/事前风控2.0/MSACode/arcs20/arcs-auth/arcs-auth-server/pom.xml" />
+        <option value="F:/机构柜台/15、事前风控/事前风控2.0/MSACode/arcs20/arcs-auth/pom.xml" />
+        <option value="F:/机构柜台/15、事前风控/事前风控2.0/MSACode/arcs20/arcs-biz-pub/arcs-biz-pub-app/pom.xml" />
+        <option value="F:/机构柜台/15、事前风控/事前风控2.0/MSACode/arcs20/arcs-biz-pub/arcs-biz-pub-domain/pom.xml" />
+        <option value="F:/机构柜台/15、事前风控/事前风控2.0/MSACode/arcs20/arcs-biz-pub/arcs-biz-pub-test/pom.xml" />
+        <option value="F:/机构柜台/15、事前风控/事前风控2.0/MSACode/arcs20/arcs-biz-pub/pom.xml" />
+        <option value="F:/机构柜台/15、事前风控/事前风控2.0/MSACode/arcs20/arcs-biz/arcs-biz-app/pom.xml" />
+        <option value="F:/机构柜台/15、事前风控/事前风控2.0/MSACode/arcs20/arcs-biz/arcs-biz-domain/pom.xml" />
+        <option value="F:/机构柜台/15、事前风控/事前风控2.0/MSACode/arcs20/arcs-biz/pom.xml" />
+        <option value="F:/机构柜台/15、事前风控/事前风控2.0/MSACode/arcs20/arcs-eccs/pom.xml" />
+        <option value="F:/机构柜台/15、事前风控/事前风控2.0/MSACode/arcs20/arcs-init/pom.xml" />
+        <option value="F:/机构柜台/15、事前风控/事前风控2.0/MSACode/arcs20/arcs-operator/arcs-operator-app/pom.xml" />
+        <option value="F:/机构柜台/15、事前风控/事前风控2.0/MSACode/arcs20/arcs-operator/arcs-operator-domain/pom.xml" />
+        <option value="F:/机构柜台/15、事前风控/事前风控2.0/MSACode/arcs20/arcs-operator/arcs-operator-inner/pom.xml" />
+        <option value="F:/机构柜台/15、事前风控/事前风控2.0/MSACode/arcs20/arcs-operator/pom.xml" />
+        <option value="F:/机构柜台/15、事前风控/事前风控2.0/MSACode/arcs20/arcs-passway/pom.xml" />
+        <option value="F:/机构柜台/15、事前风控/事前风控2.0/MSACode/arcs20/arcs-uf/arcs-uf-api/pom.xml" />
+        <option value="F:/机构柜台/15、事前风控/事前风控2.0/MSACode/arcs20/arcs-uf/arcs-uf-arcsoperator/pom.xml" />
+        <option value="F:/机构柜台/15、事前风控/事前风控2.0/MSACode/arcs20/arcs-uf/arcs-uf20/pom.xml" />
+        <option value="F:/机构柜台/15、事前风控/事前风控2.0/MSACode/arcs20/arcs-uf/pom.xml" />
+        <option value="F:/机构柜台/15、事前风控/事前风控2.0/MSACode/arcs20/arcs20-deploy-zip/pom.xml" />
+        <option value="F:/机构柜台/15、事前风控/事前风控2.0/MSACode/arcs20/arcs20-deploy/pom.xml" />
+        <option value="F:/机构柜台/15、事前风控/事前风控2.0/MSACode/arcs20/arcs20-interface-impl/pom.xml" />
+        <option value="F:/机构柜台/15、事前风控/事前风控2.0/MSACode/arcs20/arcs20-interface-inner/pom.xml" />
+        <option value="F:/机构柜台/15、事前风控/事前风控2.0/MSACode/arcs20/arcs20-pub/pom.xml" />
+      </set>
     </option>
   </component>
   <component name="ProjectKey">

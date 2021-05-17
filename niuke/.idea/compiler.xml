@@ -16,61 +16,33 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="arcs-auth-api" />
-        <module name="arcs-auth-menufunction" />
-        <module name="arcs-auth-passwd" />
-        <module name="arcs-auth-server" />
-        <module name="arcs-biz-app" />
-        <module name="arcs-biz-domain" />
-        <module name="arcs-biz-pub-app" />
-        <module name="arcs-biz-pub-domain" />
-        <module name="arcs-biz-pub-test" />
-        <module name="arcs-eccs" />
-        <module name="arcs-init" />
-        <module name="arcs-operator-app" />
-        <module name="arcs-operator-domain" />
-        <module name="arcs-operator-inner" />
-        <module name="arcs-passway" />
-        <module name="arcs-uf-api" />
-        <module name="arcs-uf-arcsoperator" />
-        <module name="arcs-uf20" />
-        <module name="arcs20-deploy" />
-        <module name="arcs20-interface-impl" />
-        <module name="arcs20-interface-inner" />
-        <module name="arcs20-pub" />
+        <module name="demo-def-client" />
+        <module name="demo-log-server" />
+        <module name="demo-rpc-client" />
+        <module name="demo-log-api" />
+        <module name="demo-log-client" />
+        <module name="demo-rpc-server" />
+        <module name="demo-def-api" />
+        <module name="demo-def-server" />
+        <module name="demo-rpc-api" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="arcs-auth" target="1.8" />
-      <module name="arcs-auth-api" target="1.8" />
-      <module name="arcs-auth-menufunction" target="1.8" />
-      <module name="arcs-auth-passwd" target="1.8" />
-      <module name="arcs-auth-server" target="1.8" />
-      <module name="arcs-auth-server-zip" target="1.8" />
-      <module name="arcs-biz" target="1.8" />
-      <module name="arcs-biz-app" target="1.8" />
-      <module name="arcs-biz-domain" target="1.8" />
-      <module name="arcs-biz-pub" target="1.8" />
-      <module name="arcs-biz-pub-app" target="1.8" />
-      <module name="arcs-biz-pub-domain" target="1.8" />
-      <module name="arcs-biz-pub-test" target="1.8" />
-      <module name="arcs-eccs" target="1.8" />
-      <module name="arcs-init" target="1.8" />
-      <module name="arcs-operator" target="1.8" />
-      <module name="arcs-operator-app" target="1.8" />
-      <module name="arcs-operator-domain" target="1.8" />
-      <module name="arcs-operator-inner" target="1.8" />
-      <module name="arcs-passway" target="1.8" />
-      <module name="arcs-uf" target="1.8" />
-      <module name="arcs-uf-api" target="1.8" />
-      <module name="arcs-uf-arcsoperator" target="1.8" />
-      <module name="arcs-uf20" target="1.8" />
       <module name="arcs20" target="1.8" />
-      <module name="arcs20-deploy" target="1.8" />
-      <module name="arcs20-deploy-zip" target="1.8" />
-      <module name="arcs20-interface-impl" target="1.8" />
-      <module name="arcs20-interface-inner" target="1.8" />
-      <module name="arcs20-pub" target="1.8" />
+      <module name="demo-def" target="1.5" />
+      <module name="demo-def-api" target="1.5" />
+      <module name="demo-def-client" target="6" />
+      <module name="demo-def-server" target="6" />
+      <module name="demo-def-server-zip" target="1.5" />
+      <module name="demo-log" target="1.8" />
+      <module name="demo-log-api" target="1.8" />
+      <module name="demo-log-client" target="1.8" />
+      <module name="demo-log-server" target="1.8" />
+      <module name="demo-rpc" target="1.8" />
+      <module name="demo-rpc-api" target="1.8" />
+      <module name="demo-rpc-client" target="1.8" />
+      <module name="demo-rpc-server" target="1.8" />
+      <module name="demo-rpc-server-zip" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>

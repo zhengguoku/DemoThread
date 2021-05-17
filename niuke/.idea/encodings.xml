@@ -1,35 +1,75 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="Encoding" useUTFGuessing="true" native2AsciiForPropertiesFiles="false">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/../../../../my/myself/学习/Jres3.0/JRESCLOUD3.0V202103.00.000.springboot2-3.0.11/JRESCLOUD3.0V202103.00.000.springboot2-3.0.11/JRESCLOUD3.0V202103.00.000.springboot2-3.0.11/demo-def/demo-def-api/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../../../../my/myself/学习/Jres3.0/JRESCLOUD3.0V202103.00.000.springboot2-3.0.11/JRESCLOUD3.0V202103.00.000.springboot2-3.0.11/JRESCLOUD3.0V202103.00.000.springboot2-3.0.11/demo-def/demo-def-client/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../../../../my/myself/学习/Jres3.0/JRESCLOUD3.0V202103.00.000.springboot2-3.0.11/JRESCLOUD3.0V202103.00.000.springboot2-3.0.11/JRESCLOUD3.0V202103.00.000.springboot2-3.0.11/demo-def/demo-def-client/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../../../../my/myself/学习/Jres3.0/JRESCLOUD3.0V202103.00.000.springboot2-3.0.11/JRESCLOUD3.0V202103.00.000.springboot2-3.0.11/JRESCLOUD3.0V202103.00.000.springboot2-3.0.11/demo-def/demo-def-server/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../../../../my/myself/学习/Jres3.0/JRESCLOUD3.0V202103.00.000.springboot2-3.0.11/JRESCLOUD3.0V202103.00.000.springboot2-3.0.11/JRESCLOUD3.0V202103.00.000.springboot2-3.0.11/demo-def/demo-def-server/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../../../../my/myself/学习/Jres3.0/JRESCLOUD3.0V202103.00.000.springboot2-3.0.11/JRESCLOUD3.0V202103.00.000.springboot2-3.0.11/JRESCLOUD3.0V202103.00.000.springboot2-3.0.11/demo-log/demo-log-api/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../../../../my/myself/学习/Jres3.0/JRESCLOUD3.0V202103.00.000.springboot2-3.0.11/JRESCLOUD3.0V202103.00.000.springboot2-3.0.11/JRESCLOUD3.0V202103.00.000.springboot2-3.0.11/demo-log/demo-log-client/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../../../../my/myself/学习/Jres3.0/JRESCLOUD3.0V202103.00.000.springboot2-3.0.11/JRESCLOUD3.0V202103.00.000.springboot2-3.0.11/JRESCLOUD3.0V202103.00.000.springboot2-3.0.11/demo-log/demo-log-client/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../../../../my/myself/学习/Jres3.0/JRESCLOUD3.0V202103.00.000.springboot2-3.0.11/JRESCLOUD3.0V202103.00.000.springboot2-3.0.11/JRESCLOUD3.0V202103.00.000.springboot2-3.0.11/demo-log/demo-log-server/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../../../../my/myself/学习/Jres3.0/JRESCLOUD3.0V202103.00.000.springboot2-3.0.11/JRESCLOUD3.0V202103.00.000.springboot2-3.0.11/JRESCLOUD3.0V202103.00.000.springboot2-3.0.11/demo-log/demo-log-server/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../../../../my/myself/学习/Jres3.0/JRESCLOUD3.0V202103.00.000.springboot2-3.0.11/JRESCLOUD3.0V202103.00.000.springboot2-3.0.11/JRESCLOUD3.0V202103.00.000.springboot2-3.0.11/demo-rpc/demo-rpc-api/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../../../../my/myself/学习/Jres3.0/JRESCLOUD3.0V202103.00.000.springboot2-3.0.11/JRESCLOUD3.0V202103.00.000.springboot2-3.0.11/JRESCLOUD3.0V202103.00.000.springboot2-3.0.11/demo-rpc/demo-rpc-api/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../../../../my/myself/学习/Jres3.0/JRESCLOUD3.0V202103.00.000.springboot2-3.0.11/JRESCLOUD3.0V202103.00.000.springboot2-3.0.11/JRESCLOUD3.0V202103.00.000.springboot2-3.0.11/demo-rpc/demo-rpc-client/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../../../../my/myself/学习/Jres3.0/JRESCLOUD3.0V202103.00.000.springboot2-3.0.11/JRESCLOUD3.0V202103.00.000.springboot2-3.0.11/JRESCLOUD3.0V202103.00.000.springboot2-3.0.11/demo-rpc/demo-rpc-client/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../../../../my/myself/学习/Jres3.0/JRESCLOUD3.0V202103.00.000.springboot2-3.0.11/JRESCLOUD3.0V202103.00.000.springboot2-3.0.11/JRESCLOUD3.0V202103.00.000.springboot2-3.0.11/demo-rpc/demo-rpc-server/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../../../../my/myself/学习/Jres3.0/JRESCLOUD3.0V202103.00.000.springboot2-3.0.11/JRESCLOUD3.0V202103.00.000.springboot2-3.0.11/JRESCLOUD3.0V202103.00.000.springboot2-3.0.11/demo-rpc/demo-rpc-server/src/main/resources" charset="UTF-8" />
     <file url="file://F:/机构柜台/15、事前风控/事前风控2.0/MSACode/arcs20" charset="UTF-8" />
     <file url="file://F:/机构柜台/15、事前风控/事前风控2.0/MSACode/arcs20/arcs-auth" charset="UTF-8" />
     <file url="file://F:/机构柜台/15、事前风控/事前风控2.0/MSACode/arcs20/arcs-auth/arcs-auth-api" charset="UTF-8" />
+    <file url="file://F:/机构柜台/15、事前风控/事前风控2.0/MSACode/arcs20/arcs-auth/arcs-auth-api/src/main/java" charset="UTF-8" />
     <file url="file://F:/机构柜台/15、事前风控/事前风控2.0/MSACode/arcs20/arcs-auth/arcs-auth-menufunction" charset="UTF-8" />
+    <file url="file://F:/机构柜台/15、事前风控/事前风控2.0/MSACode/arcs20/arcs-auth/arcs-auth-menufunction/src/main/java" charset="UTF-8" />
+    <file url="file://F:/机构柜台/15、事前风控/事前风控2.0/MSACode/arcs20/arcs-auth/arcs-auth-menufunction/src/main/resources" charset="UTF-8" />
     <file url="file://F:/机构柜台/15、事前风控/事前风控2.0/MSACode/arcs20/arcs-auth/arcs-auth-passwd" charset="UTF-8" />
+    <file url="file://F:/机构柜台/15、事前风控/事前风控2.0/MSACode/arcs20/arcs-auth/arcs-auth-passwd/src/main/java" charset="UTF-8" />
+    <file url="file://F:/机构柜台/15、事前风控/事前风控2.0/MSACode/arcs20/arcs-auth/arcs-auth-passwd/src/main/resources" charset="UTF-8" />
     <file url="file://F:/机构柜台/15、事前风控/事前风控2.0/MSACode/arcs20/arcs-auth/arcs-auth-server" charset="UTF-8" />
     <file url="file://F:/机构柜台/15、事前风控/事前风控2.0/MSACode/arcs20/arcs-auth/arcs-auth-server-zip" charset="UTF-8" />
+    <file url="file://F:/机构柜台/15、事前风控/事前风控2.0/MSACode/arcs20/arcs-auth/arcs-auth-server/src/main/java" charset="UTF-8" />
+    <file url="file://F:/机构柜台/15、事前风控/事前风控2.0/MSACode/arcs20/arcs-auth/arcs-auth-server/src/main/resources" charset="UTF-8" />
     <file url="file://F:/机构柜台/15、事前风控/事前风控2.0/MSACode/arcs20/arcs-biz" charset="UTF-8" />
     <file url="file://F:/机构柜台/15、事前风控/事前风控2.0/MSACode/arcs20/arcs-biz-pub" charset="UTF-8" />
     <file url="file://F:/机构柜台/15、事前风控/事前风控2.0/MSACode/arcs20/arcs-biz-pub/arcs-biz-pub-app" charset="UTF-8" />
+    <file url="file://F:/机构柜台/15、事前风控/事前风控2.0/MSACode/arcs20/arcs-biz-pub/arcs-biz-pub-app/src/main/java" charset="UTF-8" />
     <file url="file://F:/机构柜台/15、事前风控/事前风控2.0/MSACode/arcs20/arcs-biz-pub/arcs-biz-pub-domain" charset="UTF-8" />
+    <file url="file://F:/机构柜台/15、事前风控/事前风控2.0/MSACode/arcs20/arcs-biz-pub/arcs-biz-pub-domain/src/main/java" charset="UTF-8" />
     <file url="file://F:/机构柜台/15、事前风控/事前风控2.0/MSACode/arcs20/arcs-biz-pub/arcs-biz-pub-test" charset="UTF-8" />
     <file url="file://F:/机构柜台/15、事前风控/事前风控2.0/MSACode/arcs20/arcs-biz/arcs-biz-app" charset="UTF-8" />
+    <file url="file://F:/机构柜台/15、事前风控/事前风控2.0/MSACode/arcs20/arcs-biz/arcs-biz-app/src/main/java" charset="UTF-8" />
     <file url="file://F:/机构柜台/15、事前风控/事前风控2.0/MSACode/arcs20/arcs-biz/arcs-biz-domain" charset="UTF-8" />
+    <file url="file://F:/机构柜台/15、事前风控/事前风控2.0/MSACode/arcs20/arcs-biz/arcs-biz-domain/src/main/java" charset="UTF-8" />
     <file url="file://F:/机构柜台/15、事前风控/事前风控2.0/MSACode/arcs20/arcs-eccs" charset="UTF-8" />
+    <file url="file://F:/机构柜台/15、事前风控/事前风控2.0/MSACode/arcs20/arcs-eccs/src/main/java" charset="UTF-8" />
     <file url="file://F:/机构柜台/15、事前风控/事前风控2.0/MSACode/arcs20/arcs-init" charset="UTF-8" />
+    <file url="file://F:/机构柜台/15、事前风控/事前风控2.0/MSACode/arcs20/arcs-init/src/main/java" charset="UTF-8" />
     <file url="file://F:/机构柜台/15、事前风控/事前风控2.0/MSACode/arcs20/arcs-operator" charset="UTF-8" />
     <file url="file://F:/机构柜台/15、事前风控/事前风控2.0/MSACode/arcs20/arcs-operator/arcs-operator-app" charset="UTF-8" />
+    <file url="file://F:/机构柜台/15、事前风控/事前风控2.0/MSACode/arcs20/arcs-operator/arcs-operator-app/src/main/java" charset="UTF-8" />
     <file url="file://F:/机构柜台/15、事前风控/事前风控2.0/MSACode/arcs20/arcs-operator/arcs-operator-domain" charset="UTF-8" />
+    <file url="file://F:/机构柜台/15、事前风控/事前风控2.0/MSACode/arcs20/arcs-operator/arcs-operator-domain/src/main/java" charset="UTF-8" />
     <file url="file://F:/机构柜台/15、事前风控/事前风控2.0/MSACode/arcs20/arcs-operator/arcs-operator-inner" charset="UTF-8" />
+    <file url="file://F:/机构柜台/15、事前风控/事前风控2.0/MSACode/arcs20/arcs-operator/arcs-operator-inner/src/main/java" charset="UTF-8" />
     <file url="file://F:/机构柜台/15、事前风控/事前风控2.0/MSACode/arcs20/arcs-passway" charset="UTF-8" />
+    <file url="file://F:/机构柜台/15、事前风控/事前风控2.0/MSACode/arcs20/arcs-passway/src/main/java" charset="UTF-8" />
+    <file url="file://F:/机构柜台/15、事前风控/事前风控2.0/MSACode/arcs20/arcs-passway/src/main/resources" charset="UTF-8" />
     <file url="file://F:/机构柜台/15、事前风控/事前风控2.0/MSACode/arcs20/arcs-uf" charset="UTF-8" />
     <file url="file://F:/机构柜台/15、事前风控/事前风控2.0/MSACode/arcs20/arcs-uf/arcs-uf-api" charset="UTF-8" />
+    <file url="file://F:/机构柜台/15、事前风控/事前风控2.0/MSACode/arcs20/arcs-uf/arcs-uf-api/src/main/java" charset="UTF-8" />
     <file url="file://F:/机构柜台/15、事前风控/事前风控2.0/MSACode/arcs20/arcs-uf/arcs-uf-arcsoperator" charset="UTF-8" />
+    <file url="file://F:/机构柜台/15、事前风控/事前风控2.0/MSACode/arcs20/arcs-uf/arcs-uf-arcsoperator/src/main/java" charset="UTF-8" />
     <file url="file://F:/机构柜台/15、事前风控/事前风控2.0/MSACode/arcs20/arcs-uf/arcs-uf20" charset="UTF-8" />
+    <file url="file://F:/机构柜台/15、事前风控/事前风控2.0/MSACode/arcs20/arcs-uf/arcs-uf20/src/main/java" charset="UTF-8" />
     <file url="file://F:/机构柜台/15、事前风控/事前风控2.0/MSACode/arcs20/arcs20-deploy" charset="UTF-8" />
     <file url="file://F:/机构柜台/15、事前风控/事前风控2.0/MSACode/arcs20/arcs20-deploy-zip" charset="UTF-8" />
+    <file url="file://F:/机构柜台/15、事前风控/事前风控2.0/MSACode/arcs20/arcs20-deploy/src/main/java" charset="UTF-8" />
+    <file url="file://F:/机构柜台/15、事前风控/事前风控2.0/MSACode/arcs20/arcs20-deploy/src/main/resources" charset="UTF-8" />
     <file url="file://F:/机构柜台/15、事前风控/事前风控2.0/MSACode/arcs20/arcs20-interface-impl" charset="UTF-8" />
     <file url="file://F:/机构柜台/15、事前风控/事前风控2.0/MSACode/arcs20/arcs20-interface-inner" charset="UTF-8" />
     <file url="file://F:/机构柜台/15、事前风控/事前风控2.0/MSACode/arcs20/arcs20-pub" charset="UTF-8" />
+    <file url="file://F:/机构柜台/15、事前风控/事前风控2.0/MSACode/arcs20/arcs20-pub/src/main/java" charset="UTF-8" />
   </component>
 </project>
